@@ -1,6 +1,4 @@
-"""what"""
-def main():
-    """what"""
+"""secret"""
 X = float(input())
 Y = float(input())
 Z = float(input())
@@ -8,15 +6,13 @@ B = int(input())
 if 155 <= X <= 165:
     if 22 <= Y <= 24:
         if  34 <= Z <= 36:
-            if B % 2 == 0:
-                print("\"Yes, she is my specs.\"")
+            if not B % 2 :
+                print("\"Yes, This is a capybara star.\"")
             else :
-                print("\"No, she isn't my specs.\"")
+                print("\"No, This isn't a capybara star.\"")
         else :
-            print("\"No, she isn't my specs.\"")
+            print("\"No, This isn't a capybara star.\"")
     else :
-        print("\"No, she isn't my specs.\"")
+        print("\"No, This isn't a capybara star.\"")
 else :
-    print("\"No, she isn't my specs.\"")
-
-main()
+    print("\"No, This isn't a capybara star.\"")
