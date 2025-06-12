@@ -9,4 +9,3 @@ if x == NEW :
     print("Yes")
 else:
     print("No")
-    
